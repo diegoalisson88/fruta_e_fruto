@@ -1,2 +1,8 @@
 # fruta_e_fruto
-Estudos de Arquitetura CSS, simplificalção, organização, boa práticas, responsividade.
+
+Esse projeto é um estudo de Arquitetura CSS
+- simplificação;
+- organização;
+- boa práticas;
+- metodologias;
+- responsividade.
